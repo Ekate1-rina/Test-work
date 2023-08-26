@@ -227,3 +227,8 @@ Content Cell  | Content Cell
 Для всего остального есть обычный HTML.
 
 [def]: http://www.almazfea.com/upload/items/3557.jpgg
+
+
+
+
+добавить инфо ссылки и код
