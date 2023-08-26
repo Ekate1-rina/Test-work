@@ -87,14 +87,15 @@ fvzxcbbcx
 zxgfvjxb
 
 чтобы добавить изображения можно воспользоваться конструнциями
+Чтобы добавить изображения можно воспользоваться конструнциями
 
 Картинка без `alt` текста
 
-![](//placehold.it/150x100)
+![пример](https://w.forfun.com/fetch/ba/baa30c37307492aca2d40cbd621fb644.jpeg)
 
 Картинка с альтом и тайтлом:
 
-![Alt text](https://damion.top/uploads/posts/2022-02/1645062735_40-damion-club-p-gornie-tsveti-priroda-47.jpg)
+![Alt text](http://www.almazfea.com/upload/items/3557.jpg)
 
 
 Запомнить просто: синтаксис как у ссылок, только перед открывающей квадратной скобкой ставится восклицательный знак.
@@ -111,7 +112,7 @@ zxgfvjxb
 
 Картинки-ссылки:
 
-[![Alt text](//placehold.it/150x100)](http://example.com/)
+[![Alt text](https://damion.top/uploads/posts/2022-02/1645062735_40-damion-club-p-gornie-tsveti-priroda-47.jpg)](https://www.youtube.com/shorts/bPhPBjObZDw)
 
 
 ## Добавление исходного кода
@@ -168,3 +169,5 @@ Content Cell  | Content Cell
 Внутри таблиц можно использовать ссылки, наклонный, жирный или зачеркнутый текст.
 
 Для всего остального есть обычный HTML.
+
+[def]: http://www.almazfea.com/upload/items/3557.jpgg
