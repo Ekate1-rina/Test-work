@@ -87,7 +87,7 @@ _Курсивное начертание_
 
 Картинка без `alt` текста
 
-![](//placehold.it/150x100)
+![пример](https://w.forfun.com/fetch/ba/baa30c37307492aca2d40cbd621fb644.jpeg)
 
 Картинка с альтом и тайтлом:
 
@@ -108,7 +108,7 @@ _Курсивное начертание_
 
 Картинки-ссылки:
 
-![Alt text](https://damion.top/uploads/posts/2022-02/1645062735_40-damion-club-p-gornie-tsveti-priroda-47.jpg)
+[![Alt text](https://damion.top/uploads/posts/2022-02/1645062735_40-damion-club-p-gornie-tsveti-priroda-47.jpg)](https://www.youtube.com/shorts/bPhPBjObZDw)
 
 
 ## Добавление исходного кода
